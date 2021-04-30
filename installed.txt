@@ -1,0 +1,9 @@
+com.chrisrm.idea.MaterialThemeUI
+com.intellij.ideolog
+com.mallowigi
+de.espend.idea.laravel
+de.espend.idea.php.annotation
+izhangzhihao.rainbow.brackets
+ru.adelf.idea.dotenv
+some.awesome
+tv.twelvetone.intellij.plugins.intellivue
